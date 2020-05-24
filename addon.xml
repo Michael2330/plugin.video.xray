@@ -12,6 +12,11 @@ provider-name="XRay">
 <extension point="xbmc.addon.metadata">
   <summary lang="en">XRay Video Plugin</summary>
   <description lang="en_GB">An example video plugin for Kodi mediacenter.</description>
+  <license>
+    GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007
+  </license>
+  <website>https://github.com/Michael2330/plugin.video.xray/website>
+  <source>https://github.com/Michael2330/plugin.video.xray</source>
   <disclaimer lang="en_GB">Free sample videos are provided by www.vidsplay.com.</disclaimer>
   <assets>
     <icon>resources/icon.png</icon>
